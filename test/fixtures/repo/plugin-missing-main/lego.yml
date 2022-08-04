@@ -1,0 +1,3 @@
+version: '0.0.1'
+name: 'scraper'
+main: 'dist/main.js'

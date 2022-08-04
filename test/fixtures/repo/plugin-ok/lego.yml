@@ -1,0 +1,3 @@
+version: '0.0.0'
+name: 'example_a.com/slow-preset'
+main: 'dist/main.js'
